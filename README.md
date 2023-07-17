@@ -1,3 +1,3 @@
 # poo-2023-01
 
-alterei esse arquivo part2
+Esse repositório tem a proposta de armazenar os exercícios das aulas de poo
